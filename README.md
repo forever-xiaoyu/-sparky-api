@@ -1,1 +1,1 @@
-# -sparky-api
+# sparky-api
